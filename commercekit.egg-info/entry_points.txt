@@ -1,0 +1,2 @@
+[console_scripts]
+instijl = commercekit.main:app
